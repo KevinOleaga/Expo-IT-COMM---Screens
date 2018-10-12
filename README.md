@@ -1,4 +1,4 @@
-##INTERCOMM screens for Expo
+##INTERCOMM screens for Expo##
 
 *by Kevin Oleaga*
 
