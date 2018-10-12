@@ -1,5 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
+
 // Init app
 const app = express();
 
@@ -15,7 +16,6 @@ app.listen(port, () => {
 
 /************************* Handlebars Config **************************/
 app.set('view engine', 'ejs');
-
 
 app.get('/Screen40_1', function (req, res) {
     res.render('Screen40_1');
@@ -47,4 +47,3 @@ app.use(bodyParser.urlencoded({
 }));
 
 app.use(bodyParser.json());
-
