@@ -1,0 +1,22 @@
+.horse { 
+  background: url(https://www.periodistadigital.com/imagenes/2017/04/10/wilson.jpg);
+  background-position-x: 0;
+  background-position-y: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 540px;
+}
+
+.box {
+  font-size: 32px !important;
+  font-weight: bold !important;
+  text-align: left !important;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  margin: 40px auto;
+  background: rgba(22,22,22, 0.7);
+  width: 100%;
+  max-width: 960px;
+  border-radius: 5px;
+  padding-bottom: 32px;
+}

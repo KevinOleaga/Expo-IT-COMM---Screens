@@ -1,0 +1,21 @@
+{
+  "name": "it_comm",
+  "version": "1.0.0",
+  "description": "Expo It-COMM",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinOleaga/Expo-IT-COMM---Screens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinOleaga/Expo-IT-COMM---Screens/issues"
+  },
+  "homepage": "https://github.com/KevinOleaga/Expo-IT-COMM---Screens#readme"
+}
